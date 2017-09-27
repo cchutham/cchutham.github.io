@@ -364,9 +364,9 @@ a.project-link {
     padding: 9px 18px;
     display: inline-block;
     box-sizing: border-box;
-
 }
 a.project-link:active,
+a.project-link:focus,
 a.project-link:hover {
     text-decoration: none;
     color: #FFF;
