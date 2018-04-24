@@ -1,30 +1,96 @@
 {
   "assetsByChunkName": {
+    "path---projects-roundabout-canada": [
+      "path---projects-roundabout-canada-bdc16bed1c3a7118fb7a.js",
+      "path---projects-roundabout-canada-bdc16bed1c3a7118fb7a.js.map"
+    ],
     "component---src-layouts-index-tsx": [
-      "component---src-layouts-index-tsx-1c500f89ddfae0800be0.js",
-      "component---src-layouts-index-tsx-1c500f89ddfae0800be0.js.map"
+      "component---src-layouts-index-tsx-335470fe586b8ddc3eb3.js",
+      "component---src-layouts-index-tsx-335470fe586b8ddc3eb3.js.map"
+    ],
+    "component---src-pages-projects-craft-beer-tsx": [
+      "component---src-pages-projects-craft-beer-tsx-011a4ddddfbc524805d0.js",
+      "component---src-pages-projects-craft-beer-tsx-011a4ddddfbc524805d0.js.map"
+    ],
+    "path---projects-forget-me-not": [
+      "path---projects-forget-me-not-7fba86aacf9b77615d34.js",
+      "path---projects-forget-me-not-7fba86aacf9b77615d34.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
+    "path---projects-craft-beer": [
+      "path---projects-craft-beer-c47a859ab228b6869c76.js",
+      "path---projects-craft-beer-c47a859ab228b6869c76.js.map"
+    ],
+    "path---projects-shipment-audit-trail": [
+      "path---projects-shipment-audit-trail-800bb7657f45be9736b6.js",
+      "path---projects-shipment-audit-trail-800bb7657f45be9736b6.js.map"
+    ],
+    "path---projects-picking-process": [
+      "path---projects-picking-process-90b9ef5b39754f5b64c1.js",
+      "path---projects-picking-process-90b9ef5b39754f5b64c1.js.map"
+    ],
     "path---index": [
-      "path---index-a0e39f21c11f6a62c5ab.js",
-      "path---index-a0e39f21c11f6a62c5ab.js.map"
+      "path---index-f4bd3e1e7625344274f9.js",
+      "path---index-f4bd3e1e7625344274f9.js.map"
+    ],
+    "component---src-pages-projects-roundabout-canada-tsx": [
+      "component---src-pages-projects-roundabout-canada-tsx-48404413baf2909e41d2.js",
+      "component---src-pages-projects-roundabout-canada-tsx-48404413baf2909e41d2.js.map"
+    ],
+    "path---projects-sales-of-data": [
+      "path---projects-sales-of-data-edeab2b6f9f077df51de.js",
+      "path---projects-sales-of-data-edeab2b6f9f077df51de.js.map"
     ],
     "commons": [
-      "commons-7a75ce95ab1efbfa15a7.js",
-      "commons-7a75ce95ab1efbfa15a7.js.map"
+      "commons-1db3d1240c6f774b837a.js",
+      "build-js-styles.css",
+      "commons-1db3d1240c6f774b837a.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---projects-vrulez": [
+      "path---projects-vrulez-ec4507e6f12fe340f05b.js",
+      "path---projects-vrulez-ec4507e6f12fe340f05b.js.map"
+    ],
+    "component---src-pages-projects-sales-of-data-tsx": [
+      "component---src-pages-projects-sales-of-data-tsx-15990b245292958db05d.js",
+      "component---src-pages-projects-sales-of-data-tsx-15990b245292958db05d.js.map"
+    ],
+    "component---src-pages-projects-tasting-note-tsx": [
+      "component---src-pages-projects-tasting-note-tsx-abdd36ff7aad23bf3cc4.js",
+      "component---src-pages-projects-tasting-note-tsx-abdd36ff7aad23bf3cc4.js.map"
     ],
     "component---src-pages-index-tsx": [
-      "component---src-pages-index-tsx-17ccf03758169fe1264b.js",
-      "component---src-pages-index-tsx-17ccf03758169fe1264b.js.map"
+      "component---src-pages-index-tsx-36a85093cbd9392b791a.js",
+      "component---src-pages-index-tsx-36a85093cbd9392b791a.js.map"
+    ],
+    "component---src-pages-projects-picking-process-tsx": [
+      "component---src-pages-projects-picking-process-tsx-2668d6a056de893b4831.js",
+      "component---src-pages-projects-picking-process-tsx-2668d6a056de893b4831.js.map"
     ],
     "app": [
-      "app-6f812b69c75c152bfb31.js",
+      "app-457864d919fc3c08da7b.js",
       "build-js-styles.css",
-      "app-6f812b69c75c152bfb31.js.map",
+      "app-457864d919fc3c08da7b.js.map",
       "build-js-styles.css.map"
+    ],
+    "component---src-pages-projects-vrulez-tsx": [
+      "component---src-pages-projects-vrulez-tsx-6d8059e1ed284448535a.js",
+      "component---src-pages-projects-vrulez-tsx-6d8059e1ed284448535a.js.map"
+    ],
+    "path---projects-tasting-note": [
+      "path---projects-tasting-note-245743b08e91073e9a8c.js",
+      "path---projects-tasting-note-245743b08e91073e9a8c.js.map"
+    ],
+    "component---src-pages-projects-forget-me-not-tsx": [
+      "component---src-pages-projects-forget-me-not-tsx-2f7ad20feaf5b7dc0333.js",
+      "component---src-pages-projects-forget-me-not-tsx-2f7ad20feaf5b7dc0333.js.map"
+    ],
+    "component---src-pages-projects-shipment-audit-trail-tsx": [
+      "component---src-pages-projects-shipment-audit-trail-tsx-9b5b2245bbfcc6aad62a.js",
+      "component---src-pages-projects-shipment-audit-trail-tsx-9b5b2245bbfcc6aad62a.js.map"
     ]
   }
 }
