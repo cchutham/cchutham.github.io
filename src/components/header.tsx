@@ -1,4 +1,4 @@
-import Link, { withPrefix } from "gatsby-link";
+import { Link, withPrefix } from "gatsby";
 import { OutboundLink } from "gatsby-plugin-google-analytics";
 import * as React from "react";
 import { Collapse, Nav, NavItem, Navbar, NavbarToggler } from "reactstrap";

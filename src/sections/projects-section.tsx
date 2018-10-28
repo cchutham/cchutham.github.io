@@ -1,4 +1,4 @@
-import Link, { withPrefix } from "gatsby-link";
+import { Link, withPrefix } from "gatsby";
 import * as React from "react";
 import {
   Card,
@@ -26,7 +26,9 @@ export class ProjectsSection extends React.Component<ProjectsSectionProps, {}> {
         <Row>
           <Col>
             <h2 className={styles.sectionHeading}>
-              Collection<br />&#8212; of my Work
+              Collection
+              <br />
+              &#8212; of my Work
             </h2>
           </Col>
         </Row>

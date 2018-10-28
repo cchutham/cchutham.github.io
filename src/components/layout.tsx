@@ -5,14 +5,12 @@ import { Footer } from "../components/footer";
 import { Header } from "../components/header";
 import "../styles/global.scss";
 
-interface DefaultLayoutProps {
+interface LayoutProps {
   children: any;
+  location: any;
 }
 
-export default class DefaultLayout extends React.Component<
-  DefaultLayoutProps,
-  {}
-> {
+export default class Layout extends React.Component<LayoutProps, {}> {
   public render() {
     return (
       <>
@@ -51,7 +49,7 @@ export default class DefaultLayout extends React.Component<
           <meta name="theme-color" content="#ffffff" />
         </Helmet>
         <Header />
-        <main>{this.props.children()}</main>
+        <main>{this.props.children}</main>
         <Footer />
       </>
     );

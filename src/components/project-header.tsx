@@ -1,5 +1,5 @@
 import Img from "gatsby-image";
-import { withPrefix } from "gatsby-link";
+import { withPrefix } from "gatsby";
 import * as React from "react";
 import { Col, Container, Row } from "reactstrap";
 import { Project } from "../models/project";

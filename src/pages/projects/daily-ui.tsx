@@ -2,7 +2,7 @@ import * as React from "react";
 import { Col, Container, Row } from "reactstrap";
 import { ProjectLayout } from "../../components/project-layout";
 import { ProjectPageProps } from "../../models/project-page-props";
-import { withPrefix } from "gatsby-link";
+import { withPrefix } from "gatsby";
 
 export default class DailyUIPage extends React.Component<ProjectPageProps, {}> {
   public render() {
