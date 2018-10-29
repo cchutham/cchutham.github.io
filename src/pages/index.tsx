@@ -1,10 +1,11 @@
+import { graphql } from "gatsby";
 import * as React from "react";
 import { Helmet } from "react-helmet";
+import Layout from "../components/layout";
 import { Project } from "../models/project";
 import { AboutSection } from "../sections/about-section";
 import { IntroSection } from "../sections/intro-section";
 import { ProjectsSection } from "../sections/projects-section";
-import Layout from "../components/layout";
 
 export interface IndexPageProps {
   data: {

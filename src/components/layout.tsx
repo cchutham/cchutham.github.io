@@ -7,7 +7,6 @@ import "../styles/global.scss";
 
 interface LayoutProps {
   children: any;
-  location: any;
 }
 
 export default class Layout extends React.Component<LayoutProps, {}> {

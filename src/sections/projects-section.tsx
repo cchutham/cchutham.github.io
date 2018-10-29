@@ -11,8 +11,8 @@ import {
   Row,
 } from "reactstrap";
 import { Project } from "../models/project";
-import * as styles from "./projects-section.scss";
-import * as sharedStyles from "./sections.scss";
+import * as styles from "./projects-section.module.scss";
+import * as sharedStyles from "./sections.module.scss";
 
 export interface ProjectsSectionProps {
   projects: Project[];
