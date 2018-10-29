@@ -103,6 +103,7 @@ export class Header extends React.Component<{}, HeaderState> {
                 <OutboundLink
                   href={withPrefix("/cchutham.pdf")}
                   className={`nav-link ${styles.navLink}`}
+                  target="_blank"
                   onClick={() => {
                     this.collapseNav();
                   }}
