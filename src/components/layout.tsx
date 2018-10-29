@@ -1,9 +1,7 @@
-import "bootstrap/dist/css/bootstrap.min.css";
 import * as React from "react";
 import Helmet from "react-helmet";
 import { Footer } from "../components/footer";
 import { Header } from "../components/header";
-import "../styles/global.scss";
 
 interface LayoutProps {
   children: any;
